@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/SVG/CRM</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.0004 25 0.0004 25 25 0 25"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product-Icons" transform="translate(-120.000000, -176.000000)">
+            <g id="Icons/SVG/CRM" transform="translate(120.000000, 176.000000)">
+                <path d="M16.8271,12.5 C16.8271,10.11 14.8901,8.173 12.5001,8.173 C10.1101,8.173 8.1731,10.11 8.1731,12.5 C8.1731,14.89 10.1101,16.827 12.5001,16.827 C14.8901,16.827 16.8271,14.89 16.8271,12.5" id="Fill-1" fill="#FF7A59"></path>
+                <g id="Group-5">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-4"></g>
+                    <path d="M12.5,21.0484 C7.779,21.0484 3.952,17.2214 3.952,12.5004 C3.952,7.7784 7.779,3.9514 12.5,3.9514 C17.221,3.9514 21.048,7.7784 21.048,12.5004 C21.048,17.2214 17.221,21.0484 12.5,21.0484 M12.5,0.0004 C5.597,0.0004 0,5.5964 0,12.5004 C0,19.4034 5.597,25.0004 12.5,25.0004 C19.403,25.0004 25,19.4034 25,12.5004 C25,5.5964 19.403,0.0004 12.5,0.0004" id="Fill-3" fill="#33475B" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
